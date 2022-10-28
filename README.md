@@ -13,5 +13,5 @@ In order to stay competitive, businesses today rely increasingly on real-time da
 Due to its distributed nature and the streamlined way it manages incoming data, Kafka is capable of operating very quickly – large clusters can be capable of monitoring and reacting to millions of changes to a dataset every second. This means it becomes possible to start working with – and reacting to – streaming data in real-time.
 
 # Where to find the codes ?
-You can find the implemented code bloks and exercises by navigating the following path: <br />
+You can find the implemented code blocks and exercises by navigating the following path: <br />
 [src/main/java/org/example/](https://github.com/NorayrPetrosyan/Weekly-report-codes/tree/24.10-28.10/src/main/java/org/example)
